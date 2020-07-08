@@ -20,6 +20,11 @@ class Crib
     public function __construct(Array $options)
     {
         $this->options = $options;
+        //check allowed memory
+        foreach ($options as $option){
+            if(!is_numeric($option) || is_float($option) || empty($option))
+                die('Specify the correct parameters' . PHP_EOL);
+        }
     }
 
     /**
