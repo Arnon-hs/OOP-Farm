@@ -8,9 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../sendPulse/send.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bitrix/.settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bitrix/.settings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bitrix/php_interface/dbconn.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bitrix/php_interface/dbconn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Crib.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Crib.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../include/analytics.php" beforeDir="false" afterPath="$PROJECT_DIR$/../include/analytics.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../uslugi/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../uslugi/index.php" afterDir="false" />
@@ -26,6 +23,7 @@
     <session id="-1345352492">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -193,16 +191,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594234276017</updated>
-      <workItem from="1594234278426" duration="13629000" />
+      <workItem from="1594234278426" duration="13981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13629000" />
+    <option name="totallyTimeSpent" value="13981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
